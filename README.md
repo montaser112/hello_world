@@ -3,4 +3,4 @@ a repository
 
 
 hi there,
-im montaser i am a student and im look for some new learning.
+im montaser i am a student and im looking for some new learning.
